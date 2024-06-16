@@ -1,3 +1,4 @@
 import streamlit as st
+from menu import barraLateral
 
-st.write('Olá Mundo!')
+barraLateral()
